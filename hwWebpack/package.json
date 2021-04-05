@@ -1,0 +1,28 @@
+{
+  "name": "webpack-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YulenkaSykes/Webpack.git"
+  },
+  "author": "Sykes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YulenkaSykes/Webpack/issues"
+  },
+  "homepage": "https://github.com/YulenkaSykes/Webpack#readme",
+  "devDependencies": {
+    "css-loader": "^5.2.0",
+    "jquery": "^3.6.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
